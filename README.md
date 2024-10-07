@@ -50,7 +50,7 @@ A simple text-based Minesweeper game implemented in C++. This game allows player
 
 To run the Minesweeper game on your local machine:
 
-1. Clone the repository:
+• Clone the repository:
    ```bash
    git clone https://github.com/your-username/minesweeper-game.git
    cd minesweeper-game
@@ -59,7 +59,7 @@ To run the Minesweeper game on your local machine:
 
 To compile the program, follow the instructions below:
 
-2. For Windows (using a g++ compiler):
+• For Windows (using a g++ compiler):
    ```bash
    g++ -o minesweeper minesweeper.cpp
 
@@ -68,7 +68,7 @@ You may need to modify the code slightly to remove the Windows-specific librarie
 
 ## Run the Compiled Game
 
-3. To run the compiled game, use the following command:
+• To run the compiled game, use the following command:
    ```bash
    ./minesweeper
 
